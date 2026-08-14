@@ -12,7 +12,7 @@
 - [Ignite](https://tryhackme.com/room/ignite) *(Difficulty: Easy, Subject: Tomcat Exploitation)*  ✅
 - [Kenobi](https://tryhackme.com/room/kenobi) *(Difficulty: Easy, Subject: Linux Enumeration, NFS Exploitation)* ✅ 
 - [Agent Sudo](https://tryhackme.com/room/agentsudoctf) *(Difficulty: Easy, Subject: Linux Privilege Escalation, Enumeration)* ✅ 
-- [Vulnversity](https://tryhackme.com/room/vulnversity) *(Difficulty: Easy, Subject: Web Enumeration, File Upload Exploitation)*  
+- [Vulnversity](https://tryhackme.com/room/vulnversity) *(Difficulty: Easy, Subject: Web Enumeration, File Upload Exploitation)*  ✅
 - [Ice](https://tryhackme.com/room/ice) *(Difficulty: Easy, Subject: RDP, Windows Exploitation)*  
 
 ## Intermediate Level
